@@ -1,0 +1,41 @@
+.img img{
+    width: 300px;
+    height: 250px;
+}
+
+.card{
+  border: none;
+}
+
+.details{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 5%;
+}
+
+.tittle{
+    font-size: 35px;
+    font-weight: 600;
+}
+
+.description{
+    font-size: 20px;
+    color: gray;
+}
+
+.btn button{
+    border: none;
+    outline: none;
+    background-color: yellow;
+    border-radius: 5px;
+    
+}
+
+.price{
+    background-color: blue;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
